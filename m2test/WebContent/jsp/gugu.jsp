@@ -7,6 +7,7 @@
 </head>
 <body>
 	<h1>jsp방식 구구단</h1>
+	<div>안녕하세여</div>
 	
 	<%	// parseInt -> static method임. (클래스이름으로 바로 호출 할 수 있음.)
 		// 
